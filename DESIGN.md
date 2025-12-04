@@ -15,3 +15,4 @@ Techniques for extra_ability.
 - CRITIC_AGENT
 - MENTOR_AGENT
 - COMPOSITOR_AGENT
+- GEM ASSISTANT 
