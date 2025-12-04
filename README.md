@@ -25,7 +25,7 @@ Surprisingly, it "generated" PRINCIPLES of:
 - "GENERATIVE_INTELLIGENCE"
 - and "ENVOLVERON".
 
-> With ~ "aForGoHa" ~ actual_actz_For_Good_of_Humanity.
+> With ~ "aForGoHa" ~ actual_actz For_Good_of_Humanity.
 
 ___
 
