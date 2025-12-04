@@ -61,7 +61,7 @@ I designed this technology late at night in a hospital bed.
 
 ____
 
-### GOOGLE & the failed plan.
+### plan.
 
 
 Just after recovery I joined a INTENSIVE CAPSTONE from GOOGLE.
