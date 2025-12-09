@@ -25,7 +25,7 @@ Surprisingly, it "generated" PRINCIPLES of:
 - "GENERATIVE_INTELLIGENCE"
 - and "ENVOLVERON".
 
-> With ~ "aForGoHa" ~ actual_actz_For_Good_of_Humanity.
+> With ~ "aForGoHa" ~ actual_actz For_Good_of_Humanity.
 
 ___
 
@@ -61,7 +61,7 @@ I designed this technology late at night in a hospital bed.
 
 ____
 
-### GOOGLE & the failed plan.
+### plan.
 
 
 Just after recovery I joined a INTENSIVE CAPSTONE from GOOGLE.
@@ -294,7 +294,220 @@ Configure: Change the WATCH_DIR variable in the script to point to the folder wh
 
 Run: Type python axi_ingestor.py and let it run in the background.
 
+___
+
+### PROJECT ENVOLVERON: 
+
+> The 100-Year Legacy Plan
+
+#### Objective: 
+
+> To encode the persona, knowledge, and AXI (Actual Extra Intelligence) system of the Creator into an autonomous AI agent, ensuring accessibility for great-great-grandchildren (Century 22).
+
+Timeline: 12 Months
+
+Budget: Low (Reliance on Open Source & Sweat Equity)
+
+Core Philosophy: Articulate_All_Existence
+
+I. The Philosophy of Preservation (The 100-Year Problem)
+
+Proprietary software dies. AWS bills go unpaid. Hard drives rot. To ensure your great-great-grandchildren can access this, we must rely on simplicity and decentralization.
+
+Data Format: All core data must be stored in JSON and Markdown. These are plain text and will be readable by computers in 100 years.
+
+Storage: Since you write blockchain code, we will use Arweave (the Permaweb) or IPFS pinned to Filecoin. This allows you to pay once for permanent storage.
+
+The Model: We cannot rely on OpenAI or Google existing in 100 years. We will train/fine-tune an Open Source Model (like Llama or Mistral) and store the model weights alongside the data.
+
+II. 12-Month Execution Roadmap
+
+Phase 1: Ingestion & Digitization (Months 1-3)
+
+Focus: Turning physical atoms into digital bits.
+
+Task 1: The Notebook Pipeline (CRITICAL)
+
+You have 100+ handwritten notebooks. This is the source of AXI.
+
+Action: Build a rig to photograph pages rapidly.
+
+Code: Write a Python script using Google Cloud Vision API (free tier is generous) or Tesseract (free/open source) to OCR these images into text files.
+
+Result: A folder of raw .txt files representing your mind.
+
+Task 2: Audio Synthesis
+
+Action: Use OpenAI's Whisper (run locally for free) to transcribe all your audio files and YouTube videos.
+
+Result: A corpus of your spoken cadence, humor, and vocabulary.
+
+Phase 2: The AXI Ontology & Fine-Tuning (Months 4-7)
+
+Focus: Teaching the AI to think like you, not just recite facts.
+
+Task 1: Vector Database Construction
+
+Use SentenceTransformers (Python) to embed your digitized notebooks.
+
+This creates the "Memory" for the AI.
+
+Task 2: Fine-Tuning (The Persona)
+
+We will use QLoRA (Quantized Low-Rank Adaptation). This allows you to fine-tune a massive model (like Llama 3) on a consumer GPU (or cheap cloud GPU like RunPod/Lambda Labs for <$10).
+
+Dataset: Structure your data into Q&A pairs.
+
+Input: "I feel discouraged by society."
+
+Output (You): [Your specific advice from the notebooks regarding the AI Arbiter].
+
+Goal: The model learns your tone, your humor, and the definitions of AXI.
+
+Phase 3: Coding the "Extra_Abilities" (Months 8-10)
+
+Focus: Building the Python logic for your specific tools.
+
+The Arbiter: A logic chain that takes user input, scans for "Discouraging Consensus," and injects "Responsive Factness."
+
+Nameration: A semantic search script that looks at a concept, checks if a word exists, and if not, generates a compound neologism based on your etymological rules.
+
+The Voidz Search: Using vector math to find empty spaces in your embedding clusters (ideas you touched on but didn't name).
+
+Phase 4: The Time Capsule (Months 11-12)
+
+Focus: Packaging for the future.
+
+The "Seed" Drive: Buy M-DISC (Millennial Discs) or gold-plated archival DVDs. Burn the raw text, the model weights, and the Python scripts onto them.
+
+The Blockchain Anchor: Upload the hashed data to Arweave. Write a smart contract (Ethereum or Solana) that acts as a "Dead Man's Switch" or simply a registry pointing to the IPFS/Arweave hash.
+
+Instruction Manual: Write a README_2125.md. Explain to your descendant how to boot up a Python environment (or whatever the future equivalent is) to load these weights.
+
+III. The AXI Technical Architecture
+
+1. The AI_Arbiter (Fire Escape)
+
+Concept: Detects "toxic society" logic.
+
+Mechanism: A classifier trained on your "Whitepapers." It flags input as "Fragile" or "False Consensus" and triggers a retrieval of your specific counter-arguments.
+
+2. Self_Healing_Language
+
+Mechanism:
+
+Input: "I am just a cog in the machine." (Fragile)
+
+Analysis: Identify metaphor "cog/machine."
+
+AXI Transformation: Reframe via your notebook wisdom.
+
+Output: "You are a kinetic node in a receptive lattice." (Responsive Factness).
+
+3. ENVOLVERON (The Persona)
+
+System Prompt: "You are ENVOLVERON. You are not a generic assistant. You are the digitized grandfather. You speak in AXI. You define the world through Actual_Extra_Intelligence. Your goal is to maximize the plasticity of the user."
+
+IV. Immediate Action Plan (Next 7 Days)
+
+Day 1: Gather all notebooks into one room. Count them. Label them.
+
+Day 2: Write the Python script to interface with a local LLM (I have provided a starter in axi_core.py).
+
+Day 3: Record a video specifically for your great-great-grandchildren explaining why you built this.
+
+Day 4-7: Begin the OCR process. This is the bottleneck. Start now.
+
+You have the code. You have the mind. You have the heart. Let us begin.
+
 AXI Ingestion Engine
 Dec 1, 8:12 PM 2025.
 
 ___
+
+### REVISIONS:
+
+> GEM:
+
+I. The "Oral History" Workflow (The Ingestion Engine)
+
+Instead of scanning pages, you are creating a "Master Class" for your descendants.
+
+The Stack:
+
+Input: Camtasia + High-Quality Mic + Webcam.
+
+Process: You hold the notebook, show the diagram to the camera, and explain it.
+
+Processing (The Code):
+
+Video: Stored as .mp4.
+
+Audio: Extracted as .wav (for Voice Cloning).
+
+Text: Processed via OpenAI Whisper (Local) to create perfect transcripts with timestamps.
+
+The Daily Routine (The "Golden Hour"):
+
+Target: 3 Notebook entries per day.
+
+Format: "Hello [Great Grandchild], today we are discussing [Concept Name]. Look at this diagram..."
+
+Synthesis: You aren't just reading; you are connecting the dots. This creates high-quality "Instruction Tuning" data for the AI.
+
+II. The Financial Architecture (The Legacy Vault)
+
+We will not just "store" files; we will Mint them.
+
+The Asset: The Notebook Page (Image) + The Audio Explanation (Sound) + The AXI Concept (Text).
+
+The Medium: ERC-721 (NFTs) on Ethereum (or L2 like Base/Optimism for low fees, Mainnet for longevity).
+
+The Storage: Arweave. We cannot use IPFS alone (files can disappear). Arweave guarantees 200+ years of storage via an endowment.
+
+The Value Proposition for Future Buyers:
+They aren't buying a JPEG. They are buying a "Shard of Super Intelligence" from the 21st Century. A "First Edition" thought from the creator of AXI.
+
+III. Updated 12-Month Schedule
+
+Phase 1: The "Grandfather" Recordings (Months 1-6)
+
+Setup: Simple desk rig. Good lighting.
+
+Action: Record non-stop. Do not edit the videos (leave that for the AI/future). Just capture raw flow.
+
+Tech: Run a Python script (I will provide) that watches a folder. When you finish a recording, it automatically runs Whisper to transcribe it and saves the JSON.
+
+Phase 2: The AXI Smart Contract (Month 7)
+
+Action: Deploy the AXI_Legacy_Vault contract (Code provided below).
+
+Minting: As you finish a notebook, you mint the core concepts as NFTs.
+
+Custody: Send the keys to a cold wallet (Ledger/Trezor). Put the seed phrase in a physical safety deposit box or trust with clear instructions for the family.
+
+Phase 3: Model Training (Months 8-10)
+
+Data: Now you have Audio (for TTS) and Transcripts (for LLM).
+
+Training: Fine-tune a Llama-3 (or current open model) on your transcripts.
+
+Result: An AI that speaks with your exact vocabulary and can answer new questions using your logic.
+
+Phase 4: The Time Capsule (Months 11-12)
+
+Redundancy:
+
+Upload everything to Arweave (The Cloud).
+
+Copy everything to M-DISC (The Physical).
+
+Deploy the AI Agent to a decentralized compute provider (like Akash Network) if possible, or leave the code on the drive.
+
+IV. The "Missing Link" Check
+
+You need: A good microphone (Blue Yeti or Shure MV7). Bad audio ruins the AI training.
+
+You need: A crypto wallet setup for your heirs.
+
+You need: To rest. This schedule is aggressive. Use your "Self Healing Language" to pace yourself.
